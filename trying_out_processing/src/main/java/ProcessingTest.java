@@ -13,12 +13,7 @@ public class ProcessingTest extends PApplet {
 
     @Override
     public void settings() {
-        super.settings();
         size(WIDTH, HEIGHT);
-    }
-
-    @Override
-    public void setup() {
     }
 
     @Override
